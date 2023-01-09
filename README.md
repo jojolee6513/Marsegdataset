@@ -57,6 +57,8 @@ J. Li, S. Zi, R. Song, Y. Li, Y. Hu and Q. Du
 
 Published in [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) ( Volume: 60)
 
+- Cov-DA: A Stepwise Domain Adaptive Segmentation Network with Covariate shift Alleviation for Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, 2022,Jiaojiao Li, Shunyao Zi, Rui Song, Yunsong Li, Yinlin Hu, Qian Du, doi:10.1109/TGRS.2022.3152587. [[PDF]](https://ieeexplore.ieee.org/document/9716091)[[Code]](https://github.com/KL-Ding/TGRS-Cov_DA)
+
 #### 论文亮点
 
 ​	我们提出了一种基于协变量域偏移的逐步域自适应分割网络。具体来说，为了缓解不同传感器采集数据时产生的协变量域偏移，我们设计了一个色彩空间映射统一模块。另外，使用了一个多统计量联合评估模块来捕捉子场景的不同统计特征，用于筛选目标域中高置信度的数据，并通过二次域适应进一步提高分割性能。
